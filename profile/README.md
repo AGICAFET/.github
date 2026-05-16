@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/public/AGIcafet_CI/agicafet-logo-transparent.png" width="180" alt="AGICAFET Logo"/>
+  <img src="public/AGIcafet_CI/agicafet-logo-transparent.png" width="180" alt="AGICAFET Logo"/>
 
   # AGICAFET
 
@@ -11,13 +11,13 @@
 
   <br/>
 
-  <img src="profile/public/nvidia-certified-badge.png" height="100" alt="NVIDIA Certified"/>
+  <img src="public/nvidia-certified-badge.png" height="100" alt="NVIDIA Certified"/>
 
   <br/>
 
-  <img src="profile/public/nvidia-cert-professional-agentic-ai.png" height="150" alt="NVIDIA Certified Professional - Agentic AI"/>
+  <img src="public/nvidia-cert-professional-agentic-ai.png" height="150" alt="NVIDIA Certified Professional - Agentic AI"/>
   &nbsp;
-  <img src="profile/public/nvidia-cert-professional-genai-llm.png" height="150" alt="NVIDIA Certified Professional - Gen AI LLMs"/>
+  <img src="public/nvidia-cert-professional-genai-llm.png" height="150" alt="NVIDIA Certified Professional - Gen AI LLMs"/>
 
 </div>
 
@@ -38,7 +38,7 @@
 ## Global Partnership
 
 <p align="center">
-  <img src="profile/public/global-partner.png" width="600" alt="AGICAFET Global AI Partnership" style="background-color:#f8f8f8; padding:16px; border-radius:8px;"/>
+  <img src="public/global-partner.png" width="600" alt="AGICAFET Global AI Partnership" style="background-color:#f8f8f8; padding:16px; border-radius:8px;"/>
 </p>
 
 > Partnering with **Embedded LLM (Singapore)** and **The AI Collective (40+ countries)** to bring cutting-edge AI infrastructure to the Thai market.
