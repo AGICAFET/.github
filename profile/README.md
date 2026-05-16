@@ -7,7 +7,7 @@
 
   *"Anyone can run AI. We just run it faster, leaner, and cheaper."*
 
-  > Bangkok-based AI startup delivering end-to-end AI solutions for government, state enterprises, and private organizations - from infrastructure to deployment.
+  > Bangkok, Thailand-based AI startup delivering end-to-end AI solutions for government, state enterprises, and private organizations - from infrastructure to deployment.
 
   <br/>
 
