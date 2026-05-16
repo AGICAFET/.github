@@ -38,7 +38,7 @@
 ## Global Partnership
 
 <p align="center">
-  <img src="public/global-partner.png" width="600" alt="AGICAFET Global AI Partnership"/>
+  <img src="public/global-partner.png" width="600" alt="AGICAFET Global AI Partnership" style="background-color:#f8f8f8; padding:16px; border-radius:8px;"/>
 </p>
 
 > Partnering with **Embedded LLM (Singapore)** and **The AI Collective (40+ countries)** to bring cutting-edge AI infrastructure to the Thai market.
