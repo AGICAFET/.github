@@ -11,13 +11,7 @@
 
   <br/>
 
-  <img src="public/nvidia-certified-badge.png" height="100" alt="NVIDIA Certified"/>
-
-  <br/>
-
-  <img src="public/nvidia-cert-professional-agentic-ai.png" height="150" alt="NVIDIA Certified Professional - Agentic AI"/>
-  &nbsp;
-  <img src="public/nvidia-cert-professional-genai-llm.png" height="150" alt="NVIDIA Certified Professional - Gen AI LLMs"/>
+  <img src="public/nvidia-combined.png" height="338" alt="NVIDIA Certified &amp; Certified Professional"/>
 
 </div>
 
@@ -38,7 +32,9 @@
 ## Global Partnership
 
 <p align="center">
-  <img src="public/global-partner.png" width="600" alt="AGICAFET Global AI Partnership"/>
+  <picture>
+    <img src="public/global-partner-whitebg.png" width="600" alt="AGICAFET Global AI Partnership"/>
+  </picture>
 </p>
 
 > Partnering with **Embedded LLM (Singapore)** and **The AI Collective (40+ countries)** to bring cutting-edge AI infrastructure to the Thai market.
