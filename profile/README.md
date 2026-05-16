@@ -11,7 +11,7 @@
 
   <br/>
 
-  <img src="public/nvidia-combined.png" height="338" alt="NVIDIA Certified &amp; Certified Professional"/>
+  <img src="public/nvidia-combined-rounded.png" height="338" alt="NVIDIA Certified &amp; Certified Professional"/>
 
 </div>
 
