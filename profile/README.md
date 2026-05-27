@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/AGIcafet_CI/agicafet-logo-transparent.png" width="180" alt="AGICAFET Logo"/>
+  <img src="public/AGIcafet_CI/agicafet-logo-newsq.png" width="180" alt="AGICAFET Logo"/>
 
   # AGICAFET
 
